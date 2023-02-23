@@ -3,9 +3,3 @@ Name
 Job 1 Desc
  details1
  details2
-
-Job 2 desc
-
-Job 3 desc
-
-Job 4 desc
